@@ -1,8 +1,8 @@
 # CTI-64-BIT-LICENSE
-CTI 32-BIT LICENSE
+CTI 63-BIT LICENSE
 Version 32.0
 
-Copyright (c) [Year] [Author Name]
+Copyright (c) [2026-NOV-09] [RELESERMTON]
 
 PREAMBLE
 
