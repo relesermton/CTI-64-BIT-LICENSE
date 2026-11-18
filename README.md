@@ -1,46 +1,151 @@
-# CTI-64-BIT-LICENSE
-CTI 63-BIT LICENSE
-Version 32.0
+#CTI 64-BIT LICENSE
+Version 64.0
 
-Copyright (c) [2026-NOV-09] [RELESERMTON]
+Copyright (c) [YEAR] [AUTHOR]
 
-PREAMBLE
+========================================
+CTI 64-BIT LICENSE VERSION 64.0
+========================================
 
-The CTI 32-Bit License ("CTL-32") is a free and open-source software license
-designed to protect software freedom, source code availability, creator
-recognition, and community collaboration.
+OVERVIEW
 
-This license grants all users the right to use, study, modify, distribute,
-and improve the licensed software, provided that the terms, articles, and
-chapters of this license are followed.
+The CTI 64-Bit License (CTL-64) is a free and open-source software license
+intended to protect software freedom, source code availability,
+developer rights, community collaboration, and software integrity.
 
-The CTI 32-Bit License Version 32.0 consists of:
-- 99 Chapters
-- 100 Articles
-- 79 Internal Legal Acts
-- 32 Core Principles
+This license grants permission to use, modify, distribute, study,
+improve, and create derivative works based on the licensed software,
+subject to the terms and conditions contained herein.
 
-CHAPTER 1 - DEFINITIONS
+LICENSE STRUCTURE
+
+• 99 Chapters
+• 100 Articles
+• 79 Internal Acts
+• 64 Core Principles
+• Unlimited Contributions
+
+----------------------------------------
+CHAPTER 1
+GENERAL DEFINITIONS
+----------------------------------------
 
 Article 1.
-"Software" refers to the program, source code, assets, documentation,
-and related materials distributed under this license.
+"Software" means any source code, object code,
+documentation, assets, configuration files,
+libraries, or related materials distributed under
+this License.
 
 Article 2.
-"Author" refers to the original copyright holder or creator.
+"Author" means the original creator and copyright holder.
 
 Article 3.
-"Contributor" refers to any individual or organization that modifies,
-extends, or improves the Software.
+"Contributor" means any individual or entity that
+modifies or improves the Software.
 
-CHAPTER 2 - RIGHTS OF USE
+----------------------------------------
+CHAPTER 2
+LICENSED RIGHTS
+----------------------------------------
 
 Article 4.
-Any person may use the Software for personal, educational,
-research, commercial, or non-commercial purposes.
+Every user is granted the right to use the Software
+for any lawful purpose.
 
 Article 5.
-Users may create modified versions and derivative works.
+Every user may study and inspect the source code.
 
 Article 6.
-Users may distribute original or 
+Every user may modify the Software.
+
+Article 7.
+Every user may redistribute original or modified versions.
+
+----------------------------------------
+CHAPTER 3
+SOURCE CODE FREEDOM
+----------------------------------------
+
+Article 8.
+Source code shall remain publicly accessible when
+redistributed.
+
+Article 9.
+No distributor may deliberately conceal modifications.
+
+Article 10.
+All modifications shall be documented.
+
+----------------------------------------
+CHAPTER 4
+AUTHOR PROTECTION
+----------------------------------------
+
+Article 11.
+Original copyright notices shall be preserved.
+
+Article 12.
+Attribution to the original Author shall not be removed.
+
+Article 13.
+False ownership claims are prohibited.
+
+----------------------------------------
+CHAPTER 5
+COMMUNITY PROTECTION
+----------------------------------------
+
+Article 14.
+Malicious modifications distributed as official
+releases are prohibited.
+
+Article 15.
+Forks must clearly identify themselves.
+
+Article 16.
+Community members must respect contributor rights.
+
+----------------------------------------
+...
+(CHAPTERS 6 THROUGH 98)
+...
+
+----------------------------------------
+CHAPTER 99
+FINAL PROVISIONS
+----------------------------------------
+
+Article 100.
+This License shall remain effective unless replaced
+by a newer official version published by the Author.
+
+========================================
+79 INTERNAL ACTS
+========================================
+
+Act 1. Software Freedom Act
+Act 2. Source Code Preservation Act
+Act 3. Attribution Protection Act
+Act 4. Community Contribution Act
+Act 5. Fork Transparency Act
+...
+Act 79. Final Integrity Act
+
+========================================
+DISCLAIMER OF WARRANTY
+========================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED.
+
+========================================
+LIMITATION OF LIABILITY
+========================================
+
+IN NO EVENT SHALL THE AUTHORS OR CONTRIBUTORS BE
+LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE
+SOFTWARE.
+
+========================================
+END OF CTI 64-BIT LICENSE VERSION 64.0
+========================================
